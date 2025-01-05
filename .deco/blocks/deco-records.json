@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/apps/deco/records.ts",
+  "url": "libsql://costextractor-decocx.turso.io",
+  "authToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "name": "DATABASE_AUTH_TOKEN",
+    "encrypted": "d53552cdc7f8146921b2072cb79a48ab7dfef0a1ea855b09439fa9c8f0c2ae37229da082906643c1f4b2603d03bb5ec9f19c076f3895815791ad1c2e3404867c4ce6c42c8852bf67e8d024d4e371d4915d469ce34285cb65304b63f2717c67f9d26f79595c8842b52d841382cce55f9859222a6f5d23e69b6152c81dbe350dac563307b0b1a2f5e1e50406890b9fa316966fe146f88e0606394750e4f51beb2c9e88776bc2eddcfc310d7015c455955514a25bbfb4f6f9cfabb06bd77e5ae6d2180ced0d941e0dd1f5382f4f5d224d45617a8ffcffd3e140b4a4d4d52e5516e1"
+  }
+}
